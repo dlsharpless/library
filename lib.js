@@ -1,4 +1,3 @@
-console.log("Hello world");
 function saySomething() {
-    alert("Something");
+    console.log("Hello world");
 }
